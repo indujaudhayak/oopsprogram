@@ -1,0 +1,27 @@
+class:
+class is a collecttion of variable and method.
+
+object:
+object is a run time memory allocation.
+we can access the class methods and variable with the help of object.
+
+static:
+static variable can be accessed by all instance of the class.
+we can call the static method without the object
+
+this:
+it is used to refer to any member of the current object from within an instance method or constructor.
+
+final:
+final variable is unabel to overwrite
+final method is unable to overload
+final class cannot be inherited
+
+try:
+it is used to throw the exception
+
+catch:
+it is used to catch the exception thrown by try block
+
+finally
+it will execute finally block even if there is exception or not
